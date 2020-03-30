@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f3f95de-29a5-4d11-9a8b-5e2c0e381d86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Web\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWAEt8ThETLgnanCmfFNKAMzc2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.application">
+    <configuration name="analyze" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naver_shopping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_shopping/analyze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\workspace\python\Web\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naver_shopping" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_shopping/application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs/naver_shopping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/naver_shopping/parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stage_naver_shopping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naver_shopping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_shopping/stage_naver_shopping.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stage_naver_shopping_paging" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Web" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/naver_shopping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_shopping/stage_naver_shopping_paging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.application" />
+      <item itemvalue="Python.analyze" />
+      <item itemvalue="Python.parser" />
+      <item itemvalue="Python.stage_naver_shopping" />
+      <item itemvalue="Python.stage_naver_shopping_paging" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.stage_naver_shopping" />
+        <item itemvalue="Python.analyze" />
+        <item itemvalue="Python.stage_naver_shopping_paging" />
+        <item itemvalue="Python.parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f3f95de-29a5-4d11-9a8b-5e2c0e381d86" name="Default Changelist" comment="" />
+      <created>1584944367825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584944367825</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Inspections" timestamp="1585395638516">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Inspections/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585395638516" />
+    <state x="552" y="198" width="816" height="730" key="#Intentions" timestamp="1585236217532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" width="816" height="730" key="#Intentions/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585236217532" />
+    <state x="552" y="198" key="#Notifications" timestamp="1585401939161">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Notifications/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585361909341" />
+    <state x="552" y="198" key="#Notifications/0.0.1920.1080/-1366.110.1366.768@0.0.1920.1080" timestamp="1585401939161" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585395961737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585395961737" />
+    <state x="707" y="375" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584972385521">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="707" y="375" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1584972385521" />
+    <state x="740" y="245" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585395957915">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="245" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585395957915" />
+    <state x="717" y="409" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585395639335">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="717" y="409" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585395639335" />
+    <state x="694" y="301" key="EnvironmentVariablesDialog" timestamp="1585395934808">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="694" y="301" key="EnvironmentVariablesDialog/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585395934808" />
+    <state x="739" y="295" key="FileChooserDialogImpl" timestamp="1585396476702">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585396476702" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1585403663749">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.-85.1920.1080@0.0.1366.768" timestamp="1585400896154" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585397765184" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1366.110.1366.768@0.0.1920.1080" timestamp="1585403663749" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1585403663749">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1366.768/1366.-85.1920.1080@0.0.1366.768" timestamp="1585400896153" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585397765184" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1366.110.1366.768@0.0.1920.1080" timestamp="1585403663749" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1585403663749">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1366.768/1366.-85.1920.1080@0.0.1366.768" timestamp="1585400896153" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585397765184" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1366.110.1366.768@0.0.1920.1080" timestamp="1585403663749" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1585403663749">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1366.768/1366.-85.1920.1080@0.0.1366.768" timestamp="1585400896153" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585397765184" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1366.110.1366.768@0.0.1920.1080" timestamp="1585403663749" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1585397724956">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585397724956" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1585236797518">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1366.101.1366.768@0.0.1920.1080" timestamp="1585236797518" />
+  </component>
+</project>
