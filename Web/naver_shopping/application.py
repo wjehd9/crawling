@@ -59,7 +59,8 @@ class MyApp(QWidget):
         info7 = "# 초기화 버튼으로 연관 검색어 기록을 없앨 수 있습니다.\n"
         info8 = "사용 환경에 따라 멈춤 현상이 일어날 수 있습니다.\n"
         info9 = "기타 문의 사항은 위 메일로 보내주시기 바랍니다.\n"
-        info10 = "제작일 : 2020.3.28\n"
+        info10 = "*너무 자주 실행 시 네이버에서 DDOS로 인식될 수 있습니다.*\n"
+        info11 = "제작일 : 2020.04.06\n"
 
         self.infoKeyword.append(info1)
         self.infoKeyword.append(info2)
@@ -71,6 +72,7 @@ class MyApp(QWidget):
         self.infoKeyword.append(info8)
         self.infoKeyword.append(info9)
         self.infoKeyword.append(info10)
+        self.infoKeyword.append(info11)
 
         # Quit 버튼 생성
         self.quitButton = QPushButton('종료', self)

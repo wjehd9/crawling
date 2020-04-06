@@ -8,7 +8,7 @@ from libs.naver_shopping.create import createFolder
 
 def doing(keyword, condition, position):
     totalProducts = []
-    for pageNo in range(1, 11):
+    for pageNo in range(1, 6):
         try:
             pageString = crawl(keyword, pageNo, condition)
             products = parseObject(pageString)
